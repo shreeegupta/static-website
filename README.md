@@ -1,2 +1,2 @@
-# static-website
+# Static Website
 This is static website
