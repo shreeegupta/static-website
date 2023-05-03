@@ -1,2 +1,2 @@
 # Static Website
-This is static website
+This is a static website
